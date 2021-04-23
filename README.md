@@ -2,4 +2,4 @@
 Javascript game
 
 Live preview:
-[karinmeijvogel.github.io/srp-jsgame/](https://karinmeijvogel.github.io/srp-jsgame/)
+[imkarin.github.io/srp-jsgame/](https://imkarin.github.io/srp-jsgame/)
